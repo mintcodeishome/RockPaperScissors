@@ -1,1 +1,3 @@
-Just install python into machine and execute run.py on cmd
+Just install python 3.10 into machine 
+install pillow
+execute run.py on cmd
